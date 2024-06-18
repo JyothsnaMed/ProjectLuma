@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="40" passed="39" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-17T22:33:38 IST" name="Project Luma Automation Test Suite" finished-at="2024-06-17T22:41:15 IST" duration-ms="457033">
+    <groups>
+    </groups>
+    <test started-at="2024-06-17T22:33:38 IST" name="Luma Test Cases" finished-at="2024-06-17T22:41:15 IST" duration-ms="457033">
+      <class name="com.luma.testcases.TC_VerifyingFilters">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_VerifyingFilters@cc43f62]" started-at="2024-06-17T22:36:41 IST" name="setUp" finished-at="2024-06-17T22:36:42 IST" duration-ms="1737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:com.luma.testcases.TC_VerifyingFilters@cc43f62]" started-at="2024-06-17T22:36:42 IST" name="test1" finished-at="2024-06-17T22:36:51 IST" duration-ms="8374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:com.luma.testcases.TC_VerifyingFilters@cc43f62]" started-at="2024-06-17T22:36:51 IST" name="test2" finished-at="2024-06-17T22:36:56 IST" duration-ms="4987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:com.luma.testcases.TC_VerifyingFilters@cc43f62]" started-at="2024-06-17T22:36:56 IST" name="test3" finished-at="2024-06-17T22:37:07 IST" duration-ms="11084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_VerifyingFilters@cc43f62]" started-at="2024-06-17T22:37:07 IST" name="tearDown" finished-at="2024-06-17T22:37:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_VerifyingFilters -->
+      <class name="com.luma.testcases.TC_SearchBoxSuggestions">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_SearchBoxSuggestions@68c9133c]" started-at="2024-06-17T22:35:23 IST" name="setUp" finished-at="2024-06-17T22:35:25 IST" duration-ms="2122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:com.luma.testcases.TC_SearchBoxSuggestions@68c9133c]" started-at="2024-06-17T22:35:25 IST" name="test1" finished-at="2024-06-17T22:35:33 IST" duration-ms="8053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:com.luma.testcases.TC_SearchBoxSuggestions@68c9133c]" started-at="2024-06-17T22:35:33 IST" name="test2" finished-at="2024-06-17T22:35:38 IST" duration-ms="4884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:com.luma.testcases.TC_SearchBoxSuggestions@68c9133c]" started-at="2024-06-17T22:35:38 IST" name="test3" finished-at="2024-06-17T22:35:43 IST" duration-ms="5438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_SearchBoxSuggestions@68c9133c]" started-at="2024-06-17T22:35:43 IST" name="tearDown" finished-at="2024-06-17T22:35:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_SearchBoxSuggestions -->
+      <class name="com.luma.testcases.TC_CompareandAddProducts">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_CompareandAddProducts@5b218417]" started-at="2024-06-17T22:37:07 IST" name="setUp" finished-at="2024-06-17T22:37:09 IST" duration-ms="1987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:com.luma.testcases.TC_CompareandAddProducts@5b218417]" started-at="2024-06-17T22:37:09 IST" name="test1" finished-at="2024-06-17T22:37:16 IST" duration-ms="6687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:com.luma.testcases.TC_CompareandAddProducts@5b218417]" started-at="2024-06-17T22:37:16 IST" name="test2" finished-at="2024-06-17T22:37:21 IST" duration-ms="4979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:com.luma.testcases.TC_CompareandAddProducts@5b218417]" started-at="2024-06-17T22:37:21 IST" name="test3" finished-at="2024-06-17T22:38:38 IST" duration-ms="77489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_CompareandAddProducts@5b218417]" started-at="2024-06-17T22:38:38 IST" name="tearDown" finished-at="2024-06-17T22:38:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_CompareandAddProducts -->
+      <class name="com.luma.testcases.TC_SearchProduct">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_SearchProduct@5e2c3d18]" started-at="2024-06-17T22:36:07 IST" name="setUp" finished-at="2024-06-17T22:36:09 IST" duration-ms="1994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:com.luma.testcases.TC_SearchProduct@5e2c3d18]" started-at="2024-06-17T22:36:09 IST" name="test1" finished-at="2024-06-17T22:36:17 IST" duration-ms="8341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:com.luma.testcases.TC_SearchProduct@5e2c3d18]" started-at="2024-06-17T22:36:17 IST" name="test2" finished-at="2024-06-17T22:36:22 IST" duration-ms="4720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:com.luma.testcases.TC_SearchProduct@5e2c3d18]" started-at="2024-06-17T22:36:22 IST" name="test3" finished-at="2024-06-17T22:36:28 IST" duration-ms="6329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_SearchProduct@5e2c3d18]" started-at="2024-06-17T22:36:28 IST" name="tearDown" finished-at="2024-06-17T22:36:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_SearchProduct -->
+      <class name="com.luma.testcases.TC_ValidateMainElements">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_ValidateMainElements@2cb4893b]" started-at="2024-06-17T22:36:28 IST" name="setUp" finished-at="2024-06-17T22:36:30 IST" duration-ms="1973" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:0, instance:com.luma.testcases.TC_ValidateMainElements@2cb4893b]" started-at="2024-06-17T22:36:30 IST" name="test1" finished-at="2024-06-17T22:36:36 IST" duration-ms="6144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:com.luma.testcases.TC_ValidateMainElements@2cb4893b]" started-at="2024-06-17T22:36:36 IST" name="test2" finished-at="2024-06-17T22:36:37 IST" duration-ms="725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:0, instance:com.luma.testcases.TC_ValidateMainElements@2cb4893b]" started-at="2024-06-17T22:36:37 IST" name="test3" finished-at="2024-06-17T22:36:40 IST" duration-ms="3027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_ValidateMainElements@2cb4893b]" started-at="2024-06-17T22:36:40 IST" name="tearDown" finished-at="2024-06-17T22:36:41 IST" duration-ms="561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_ValidateMainElements -->
+      <class name="com.luma.testcases.TC_InvalidRegisterTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_InvalidRegisterTest@8458f04]" started-at="2024-06-17T22:34:48 IST" name="setUp" finished-at="2024-06-17T22:34:50 IST" duration-ms="2065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:com.luma.testcases.TC_InvalidRegisterTest@8458f04]" started-at="2024-06-17T22:34:50 IST" name="test1" finished-at="2024-06-17T22:34:57 IST" duration-ms="7310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:com.luma.testcases.TC_InvalidRegisterTest@8458f04]" started-at="2024-06-17T22:34:57 IST" name="test2" finished-at="2024-06-17T22:35:06 IST" duration-ms="8876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_InvalidRegisterTest@8458f04]" started-at="2024-06-17T22:35:06 IST" name="tearDown" finished-at="2024-06-17T22:35:09 IST" duration-ms="2517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_InvalidRegisterTest -->
+      <class name="com.luma.testcases.TC_RegisterPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_RegisterPage@606e4010]" started-at="2024-06-17T22:34:32 IST" name="setUp" finished-at="2024-06-17T22:34:35 IST" duration-ms="2365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:com.luma.testcases.TC_RegisterPage@606e4010]" started-at="2024-06-17T22:34:35 IST" name="test1" finished-at="2024-06-17T22:34:42 IST" duration-ms="7634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:com.luma.testcases.TC_RegisterPage@606e4010]" started-at="2024-06-17T22:34:42 IST" name="test2" finished-at="2024-06-17T22:34:47 IST" duration-ms="5066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="testUserVerify()[pri:3, instance:com.luma.testcases.TC_RegisterPage@606e4010]" started-at="2024-06-17T22:34:47 IST" name="testUserVerify" finished-at="2024-06-17T22:34:48 IST" duration-ms="95" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [My Account] but found [Create New Customer Account]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [My Account] but found [Create New Customer Account]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at org.testng.Assert.assertEquals(Assert.java:666)
+at com.luma.testcases.TC_RegisterPage.testUserVerify(TC_RegisterPage.java:39)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserVerify -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_RegisterPage@606e4010]" started-at="2024-06-17T22:34:48 IST" name="tearDown" finished-at="2024-06-17T22:34:48 IST" duration-ms="592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_RegisterPage -->
+      <class name="com.luma.testcases.TC_ShippingandReviewPayment">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_ShippingandReviewPayment@6caf0677]" started-at="2024-06-17T22:39:34 IST" name="setUp" finished-at="2024-06-17T22:39:36 IST" duration-ms="2232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:com.luma.testcases.TC_ShippingandReviewPayment@6caf0677]" started-at="2024-06-17T22:39:36 IST" name="test1" finished-at="2024-06-17T22:39:43 IST" duration-ms="7154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:com.luma.testcases.TC_ShippingandReviewPayment@6caf0677]" started-at="2024-06-17T22:39:43 IST" name="test2" finished-at="2024-06-17T22:39:48 IST" duration-ms="4283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:com.luma.testcases.TC_ShippingandReviewPayment@6caf0677]" started-at="2024-06-17T22:39:48 IST" name="test3" finished-at="2024-06-17T22:40:27 IST" duration-ms="39180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:4, instance:com.luma.testcases.TC_ShippingandReviewPayment@6caf0677]" started-at="2024-06-17T22:40:27 IST" name="test4" finished-at="2024-06-17T22:41:14 IST" duration-ms="47083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_ShippingandReviewPayment@6caf0677]" started-at="2024-06-17T22:41:14 IST" name="tearDown" finished-at="2024-06-17T22:41:15 IST" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_ShippingandReviewPayment -->
+      <class name="com.luma.testcases.TC_InvalidLoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_InvalidLoginTest@18271936]" started-at="2024-06-17T22:34:14 IST" name="setUp" finished-at="2024-06-17T22:34:16 IST" duration-ms="1846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:com.luma.testcases.TC_InvalidLoginTest@18271936]" started-at="2024-06-17T22:34:16 IST" name="test1" finished-at="2024-06-17T22:34:23 IST" duration-ms="6599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:com.luma.testcases.TC_InvalidLoginTest@18271936]" started-at="2024-06-17T22:34:23 IST" name="test2" finished-at="2024-06-17T22:34:32 IST" duration-ms="8833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_InvalidLoginTest@18271936]" started-at="2024-06-17T22:34:32 IST" name="tearDown" finished-at="2024-06-17T22:34:32 IST" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_InvalidLoginTest -->
+      <class name="com.luma.testcases.TC_LogInTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_LogInTest@909217e]" started-at="2024-06-17T22:33:56 IST" name="setUp" finished-at="2024-06-17T22:33:58 IST" duration-ms="2148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:com.luma.testcases.TC_LogInTest@909217e]" started-at="2024-06-17T22:33:58 IST" name="test1" finished-at="2024-06-17T22:34:06 IST" duration-ms="8461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:com.luma.testcases.TC_LogInTest@909217e]" started-at="2024-06-17T22:34:06 IST" name="test2" finished-at="2024-06-17T22:34:06 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:com.luma.testcases.TC_LogInTest@909217e]" started-at="2024-06-17T22:34:06 IST" name="test3" finished-at="2024-06-17T22:34:07 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method signature="test4()[pri:4, instance:com.luma.testcases.TC_LogInTest@909217e]" started-at="2024-06-17T22:34:07 IST" name="test4" finished-at="2024-06-17T22:34:11 IST" duration-ms="4217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:5, instance:com.luma.testcases.TC_LogInTest@909217e]" started-at="2024-06-17T22:34:11 IST" name="test5" finished-at="2024-06-17T22:34:14 IST" duration-ms="3081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_LogInTest@909217e]" started-at="2024-06-17T22:34:14 IST" name="tearDown" finished-at="2024-06-17T22:34:14 IST" duration-ms="595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_LogInTest -->
+      <class name="com.luma.testcases.TC_LinksVerification">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_LinksVerification@48075da3]" started-at="2024-06-17T22:35:09 IST" name="setUp" finished-at="2024-06-17T22:35:12 IST" duration-ms="2727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:0, instance:com.luma.testcases.TC_LinksVerification@48075da3]" started-at="2024-06-17T22:35:12 IST" name="test1" finished-at="2024-06-17T22:35:20 IST" duration-ms="8000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:com.luma.testcases.TC_LinksVerification@48075da3]" started-at="2024-06-17T22:35:20 IST" name="test2" finished-at="2024-06-17T22:35:22 IST" duration-ms="2100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_LinksVerification@48075da3]" started-at="2024-06-17T22:35:22 IST" name="tearDown" finished-at="2024-06-17T22:35:23 IST" duration-ms="998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_LinksVerification -->
+      <class name="com.luma.testcases.TC_AddToCartandValidateTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_AddToCartandValidateTest@645aa696]" started-at="2024-06-17T22:38:38 IST" name="setUp" finished-at="2024-06-17T22:38:40 IST" duration-ms="2075" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:com.luma.testcases.TC_AddToCartandValidateTest@645aa696]" started-at="2024-06-17T22:38:40 IST" name="test1" finished-at="2024-06-17T22:38:49 IST" duration-ms="8588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:com.luma.testcases.TC_AddToCartandValidateTest@645aa696]" started-at="2024-06-17T22:38:49 IST" name="test2" finished-at="2024-06-17T22:38:53 IST" duration-ms="4357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:com.luma.testcases.TC_AddToCartandValidateTest@645aa696]" started-at="2024-06-17T22:38:53 IST" name="test3" finished-at="2024-06-17T22:39:34 IST" duration-ms="40872" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_AddToCartandValidateTest@645aa696]" started-at="2024-06-17T22:39:34 IST" name="tearDown" finished-at="2024-06-17T22:39:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_AddToCartandValidateTest -->
+      <class name="com.luma.testcases.TC_LinkTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_LinkTest@3ba987b8]" started-at="2024-06-17T22:33:38 IST" name="setUp" finished-at="2024-06-17T22:33:45 IST" duration-ms="7375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="linkTest()[pri:0, instance:com.luma.testcases.TC_LinkTest@3ba987b8]" started-at="2024-06-17T22:33:45 IST" name="linkTest" finished-at="2024-06-17T22:33:54 IST" duration-ms="8666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_LinkTest@3ba987b8]" started-at="2024-06-17T22:33:54 IST" name="tearDown" finished-at="2024-06-17T22:33:56 IST" duration-ms="1822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_LinkTest -->
+      <class name="com.luma.testcases.TC_InvalidProductResult">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.luma.testcases.TC_InvalidProductResult@7a35b0f5]" started-at="2024-06-17T22:35:43 IST" name="setUp" finished-at="2024-06-17T22:35:45 IST" duration-ms="2124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test1()[pri:1, instance:com.luma.testcases.TC_InvalidProductResult@7a35b0f5]" started-at="2024-06-17T22:35:45 IST" name="test1" finished-at="2024-06-17T22:35:52 IST" duration-ms="7136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:2, instance:com.luma.testcases.TC_InvalidProductResult@7a35b0f5]" started-at="2024-06-17T22:35:53 IST" name="test2" finished-at="2024-06-17T22:35:57 IST" duration-ms="4852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method signature="test3()[pri:3, instance:com.luma.testcases.TC_InvalidProductResult@7a35b0f5]" started-at="2024-06-17T22:35:57 IST" name="test3" finished-at="2024-06-17T22:36:07 IST" duration-ms="9548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.luma.testcases.TC_InvalidProductResult@7a35b0f5]" started-at="2024-06-17T22:36:07 IST" name="tearDown" finished-at="2024-06-17T22:36:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.luma.testcases.TC_InvalidProductResult -->
+    </test> <!-- Luma Test Cases -->
+  </suite> <!-- Project Luma Automation Test Suite -->
+</testng-results>
